@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AO.Nop.FrilivTransfers", "AO.Nop.FrilivTransfers\AO.Nop.FrilivTransfers.csproj", "{5F974B63-625F-4C8E-90ED-29EB3C34F89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F974B63-625F-4C8E-90ED-29EB3C34F89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F974B63-625F-4C8E-90ED-29EB3C34F89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F974B63-625F-4C8E-90ED-29EB3C34F89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F974B63-625F-4C8E-90ED-29EB3C34F89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DC0726-736E-4140-8948-CF85B0B48765}
+	EndGlobalSection
+EndGlobal
